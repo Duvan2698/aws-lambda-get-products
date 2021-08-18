@@ -24,7 +24,7 @@ const products = function () {
         },
         {
             id: 3,
-            name: 'Pizza Vegetariana A1',
+            name: 'Pizza Vegetariana',
             price: 25.5
         }];
 }
